@@ -7,3 +7,13 @@ nav ul {
 nav ul li {
     list-style:none;
 }
+
+#latest-arrivals {
+
+
+}
+
+@keyframes sizechange {
+  0%   {font-size: 0px;}
+  100% {font-size: 32px}
+}
