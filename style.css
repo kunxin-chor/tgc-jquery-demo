@@ -8,9 +8,9 @@ nav ul li {
     list-style:none;
 }
 
-#latest-arrivals {
+#latest-arrivals .product-item {
 
-
+    font-size:0px;
 }
 
 @keyframes sizechange {

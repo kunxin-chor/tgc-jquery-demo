@@ -7,5 +7,5 @@ function xyz()
       'animation-fill-mode': 'forwards'
     }
     
-    $("#latest-arrivals").css(s);
+    $("#latest-arrivals .product-item").css(s);
 }
